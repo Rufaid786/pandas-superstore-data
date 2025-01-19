@@ -1,3 +1,2 @@
-This is a sample Pandas project .A sample dataet of a superstore is downloaded from kaggle and did certain operations on it.
-The packages used are documented inside requirements.txt. Keep in mind that i have created a virtual environment initially and i need to install only pandas,seaborn and matplotlib inside it.Seaborn is not necessary in our project.I have installed it in the initial phase.
-So,the necessary requirements are only pandas and matplotlib
+<p>This is a sample Pandas project .A sample dataet of a superstore is downloaded from kaggle and did certain operations on it.</p>
+<p>The packages used are documented inside requirements.txt. Keep in mind that i have created a virtual environment initially and i need to install only pandas,seaborn and matplotlib inside it.Seaborn is not necessary in our project.I have installed it in the initial phase.So,the necessary requirements are only pandas and matplotlib</p>
